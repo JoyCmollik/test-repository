@@ -7,6 +7,7 @@ const Banner = () => {
       <div>
         <h3>what to do?</h3>
         <h6>clueless</h6>
+        <p>Hello working in git for no reason.</p>
       </div>
     </div>
   );
