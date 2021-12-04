@@ -16,6 +16,7 @@ const Home = () => {
         minima a laborum voluptatibus? Doloribus porro quod exercitationem
         voluptatibus saepe quam omnis!
       </h1>
+      <h2>This is marwa's conflict</h2>
     </div>
   );
 };
